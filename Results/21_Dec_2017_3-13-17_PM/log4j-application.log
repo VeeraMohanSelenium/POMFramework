@@ -1,0 +1,9 @@
+2017-12-21 15:13:17,725 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - <<TestStart>>TC103
+2017-12-21 15:13:29,656 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Application Launched successfuly
+2017-12-21 15:13:32,796 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to enter username
+2017-12-21 15:13:34,014 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to enter username
+2017-12-21 15:13:37,084 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to click on login
+2017-12-21 15:13:37,374 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - <<TestSuccess>>TC103
+2017-12-21 15:13:37,375 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - 
+2017-12-21 15:13:37,412 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - 
+2017-12-21 15:13:37,412 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - 

@@ -1,0 +1,8 @@
+2017-12-20 19:37:40,194 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Application Launched successfuly
+2017-12-20 19:37:43,036 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to enter username
+2017-12-20 19:37:43,504 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to enter username
+2017-12-20 19:37:45,511 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to click on login
+2017-12-20 19:37:45,783 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to click on MY Info Link
+2017-12-20 19:37:52,476 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to click on Edit Button
+2017-12-20 19:37:53,326 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to set first name
+2017-12-20 19:37:54,281 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Logout is successful

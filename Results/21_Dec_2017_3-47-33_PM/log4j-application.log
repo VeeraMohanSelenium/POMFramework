@@ -1,0 +1,11 @@
+2017-12-21 15:47:34,522 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - <<TestStart>>TC103
+2017-12-21 15:47:49,458 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Application Launched successfuly
+2017-12-21 15:47:52,098 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to enter username
+2017-12-21 15:47:53,318 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to enter username
+2017-12-21 15:47:56,668 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to click on login
+2017-12-21 15:47:56,770 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Element is exist
+2017-12-21 15:50:17,163 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to navigate on Time link
+2017-12-21 15:50:58,888 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - <<TestSuccess>>TC103
+2017-12-21 15:50:58,888 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - 
+2017-12-21 15:50:58,888 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - 
+2017-12-21 15:50:58,888 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - 

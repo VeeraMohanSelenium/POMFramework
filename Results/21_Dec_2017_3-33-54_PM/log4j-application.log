@@ -1,0 +1,6 @@
+2017-12-21 15:33:55,035 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - <<TestStart>>TC103
+2017-12-21 15:34:07,506 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Application Launched successfuly
+2017-12-21 15:34:33,244 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to enter username
+2017-12-21 15:34:38,900 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to enter username
+2017-12-21 15:34:55,965 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to click on login
+2017-12-21 15:35:02,703 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Element is exist

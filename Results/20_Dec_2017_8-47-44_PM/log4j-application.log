@@ -1,0 +1,26 @@
+2017-12-20 20:47:45,578 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - <<TestStart>>TC101
+2017-12-20 20:47:56,939 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Application Launched successfuly
+2017-12-20 20:47:57,699 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to enter username
+2017-12-20 20:47:58,863 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to enter username
+2017-12-20 20:48:01,551 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to click on login
+2017-12-20 20:48:08,665 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to click on MY Info Link
+2017-12-20 20:48:11,367 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to click on Edit Button
+2017-12-20 20:48:12,526 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to set first name
+2017-12-20 20:48:15,238 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Logout is successful
+2017-12-20 20:48:15,247 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - <<TestSuccess>>TC101
+2017-12-20 20:48:15,247 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - 
+2017-12-20 20:48:15,247 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - 
+2017-12-20 20:48:15,247 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - 
+2017-12-20 20:48:15,303 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - <<TestStart>>TC102
+2017-12-20 20:48:27,574 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Application Launched successfuly
+2017-12-20 20:48:28,804 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to enter username
+2017-12-20 20:48:30,873 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to enter username
+2017-12-20 20:48:33,187 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to click on login
+2017-12-20 20:48:38,333 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to click on MY Info Link
+2017-12-20 20:48:40,930 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to click on Edit Button
+2017-12-20 20:48:42,034 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to set first name
+2017-12-20 20:48:44,429 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Logout is successful
+2017-12-20 20:48:44,431 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - <<TestSuccess>>TC102
+2017-12-20 20:48:44,431 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - 
+2017-12-20 20:48:44,431 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - 
+2017-12-20 20:48:44,431 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - 

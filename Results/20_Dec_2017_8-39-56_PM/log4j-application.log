@@ -1,0 +1,13 @@
+2017-12-20 20:39:57,366 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - <<TestStart>>TC101
+2017-12-20 20:40:09,147 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Application Launched successfuly
+2017-12-20 20:40:12,106 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to enter username
+2017-12-20 20:40:13,356 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to enter username
+2017-12-20 20:40:15,629 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to click on login
+2017-12-20 20:40:15,880 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to click on MY Info Link
+2017-12-20 20:40:21,101 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to click on Edit Button
+2017-12-20 20:40:21,804 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to set first name
+2017-12-20 20:40:22,362 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Logout is successful
+2017-12-20 20:40:22,368 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - <<TestSuccess>>TC101
+2017-12-20 20:40:22,368 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - 
+2017-12-20 20:40:22,368 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - 
+2017-12-20 20:40:22,368 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - 
